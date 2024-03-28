@@ -1,0 +1,31 @@
+{
+  "name": "serviceloadfileas",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "serviceloadfileas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangbao2025/serviceloadfileas"
+  },
+  "website": "https://github.com/wangbao2025/serviceloadfileas.git",
+  "keywords": [
+    "serviceloadfileas"
+  ],
+  "author": "wangbao2025",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangbao2025/serviceloadfileas/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/wangbao2025/serviceloadfileas#readme",
+  "dependencies": {
+    "managementsystemss": "1.0.2"
+  }
+}
